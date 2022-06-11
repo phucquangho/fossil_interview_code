@@ -104,4 +104,4 @@ maxSpeed=200
 maxSpeed=100
 maxSpeed=200
 ```
-To show the output speed in-turn orders like above, we need to use synchronized, wait, and notify to same notification resource to control when thread need to print out data.
+use concurrency control methods such as using locks with the `synchronized` keyword, implementing a customized `Runnable` or `Callable` interface or using `mutexes`
