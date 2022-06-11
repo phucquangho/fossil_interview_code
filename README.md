@@ -1,5 +1,5 @@
 # fossil_interview_code
-
+Every question was submitted in seperated folder which include the Main.java, open your edittor and run Main.java to run the code
 ### Question 1
 
 *Output:*
